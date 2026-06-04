@@ -1,6 +1,5 @@
 {
   "name": "mapa-crm",
-  "description": "MAPA CRM — WhatsApp CRM for your business"
   "version": "0.2.1",
   "private": true,
   "description": "Self-hostable CRM template for WhatsApp built on Next.js and Supabase — shared inbox, contacts, sales pipelines, broadcasts, and no-code automations.",
