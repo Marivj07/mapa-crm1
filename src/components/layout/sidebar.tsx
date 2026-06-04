@@ -15,6 +15,7 @@ import {
   Zap,
   Workflow,
   Settings,
+  Info,
   LogOut,
   User,
   X,
