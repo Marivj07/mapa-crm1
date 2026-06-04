@@ -56,7 +56,7 @@ const navItems: NavItem[] = [
 
 const bottomNavItems = [
   { href: "/settings", label: "Settings", icon: Settings },
-  { href: '/about',    label: 'About MAPA',  icon: Info },
+  { href: '/about', label: 'About MAPA', icon: Info }
 ];
 
 interface SidebarProps {
